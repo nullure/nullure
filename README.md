@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Demon142 (discord)**
 
-- 📄 Know about my experiences [Demon69.tech](Demon69.tech)
+- 📄 Know about my experiences [Demon69.tech](https://Demon69.tech)
 
 - ⚡ Fun fact **I am 15 years old**
 
