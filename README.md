@@ -5,21 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightmaregodss" alt="nightmaregodss" /></a> </p>
 
-- 🔭 I’m currently working on **Holaclient-E**
-
-- 🌱 I’m currently learning **Nothing.**
-
-- 👯 I’m looking to collaborate on **Nothing.**
-
-- 🤝 I’m looking for help with **Nothing.**
-
-- 💬 Don't ask me about **Maths**
+- 🔭 I’m currently working on **SpectrumLabs**
 
 - 📫 How to reach me **Demon142 (discord)**
 
 - 📄 Know about my experiences [demon142.net](https://demon142.net)
-
-- ⚡ Fun fact **I am 15 years old**
 
 ---
 
