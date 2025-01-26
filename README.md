@@ -40,4 +40,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nightmaregodss&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://discord.com/users/1108027018580340877"><img src="https://lanyard.cnrad.dev/api/1108027018580340877?theme=dark&showDisplayName=true&hideClan=true" /></a>
+<a href="https://discord.com/users/1108027018580340877"><img src="https://discord-readme-badge.vercel.app/api?id=1108027018580340877" /></a>
