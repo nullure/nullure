@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregodss&show_icons=true&locale=en" alt="nightmaregodss" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nightmaregodss&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-2y1x0jh42-nightmaregodss-projects.vercel.app?user=nightmaregodss&theme=highcontrast)](https://git.io/streak-stats)
 
 <a href="https://discord.com/users/1108027018580340877"><img src="https://discord-readme-badge.vercel.app/api?id=1108027018580340877" /></a>
