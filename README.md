@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **SpectrumLabs**
 
-- 📫 How to reach me **Demon142 (discord)**
+- 📫 How to reach me **nullure (discord)**
 
-- 📄 Know about my experiences [demon142.net](https://demon142.net)
+- 📄 Know about my experiences [Portfolio](https://demon142.net)
 
 ---
 
