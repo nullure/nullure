@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morven</h1>
 <h3 align="center">"Money is motivation"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullure=Profile%20views&color=0e75b6&style=flat" alt="nullure" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullure&label=Profile%20views&color=0e75b6&style=flat" alt="nullure" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullure" alt="nullure" /></a> </p>
 
