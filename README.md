@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightmaregodss&label=Profile%20views&color=0e75b6&style=flat" alt="nullure" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullure" alt="nullure" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullure&theme=darkhub" alt="nullure" /></a> </p>
 
 - 🔭 I’m currently working on **SpectrumLabs**
 
