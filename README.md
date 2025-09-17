@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullure&theme=darkhub" alt="nullure" /></a> </p>
 
-- 🔭 I’m currently working on **SpectrumLabs**
+- 🔭 I’m currently working on **NeuroPilot**
 
 - 📫 How to reach me **nullure (discord)**
 
@@ -23,20 +23,9 @@
 <a href="https://dev.to/demon142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="demon142" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <!-- Add more icons here -->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullure&show_icons=true&locale=en&layout=compact" alt="nullure" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightmaregodss&show_icons=true&locale=en&layout=compact" alt="nightmaregodss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullure&show_icons=true&locale=en" alt="nightmaregodss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullure&show_icons=true&locale=en" alt="nullure" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nullure&theme=highcontrast)](https://git.io/streak-stats)
 
