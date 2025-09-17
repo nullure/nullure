@@ -23,15 +23,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/demon142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="demon142" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullure&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nullure" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullure&&hide_border=false&include_all_commits=true&count_private=true" alt="nullure" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nullure&theme=highcontrast)](https://git.io/streak-stats)
-
-<a href="https://discord.com/users/1108027018580340877"><img src="https://discord-readme-badge.vercel.app/api?id=1108027018580340877" /></a>
