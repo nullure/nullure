@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullure&&hide_border=false&include_all_commits=true&count_private=true" alt="nullure" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nightmaregodss&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nullure&theme=highcontrast)](https://git.io/streak-stats)
