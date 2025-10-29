@@ -14,6 +14,10 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_username: nullure
+          committer_email: nullure@users.noreply.github.com
+          output_action: push
 
           # Options
           user: nullure
