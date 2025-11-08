@@ -44,35 +44,15 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
 
-          # Stargazers (includes organization stars)
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 365
-          plugin_stargazers_limit: 5
-          plugin_stargazers_affiliations: owner, collaborator, organization_member
-
           # Followers
           plugin_followers: yes
           plugin_followers_limit: 10
-
-          # Topics / Interests
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-          plugin_topics_sort: stars
-          plugin_topics_limit: 20
 
           # Repositories activity and contributions
           plugin_repositories: yes
           plugin_repositories_featured: CaviraOSS/OpenMemory, CaviraOSS/pagelm
           plugin_repositories_affiliations: owner, collaborator, organization_member
           plugin_repositories_forks: false
-
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
           # Lines of code & code review
           plugin_lines: yes
