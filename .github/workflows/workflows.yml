@@ -50,7 +50,7 @@ jobs:
 
           # Repositories activity and contributions
           plugin_repositories: yes
-          plugin_repositories_featured: CaviraOSS/OpenMemory, CaviraOSS/pagelm
+          plugin_repositories_featured: CaviraOSS/OpenMemory, CaviraOSS/pagelm, CaviraOSS/OpenReason, CaviraOSS/SecuPrompt
           plugin_repositories_affiliations: owner, collaborator, organization_member
           plugin_repositories_forks: false
 
@@ -68,3 +68,5 @@ jobs:
           # Calendar
           plugin_calendar: yes
           plugin_calendar_limit: 1
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
